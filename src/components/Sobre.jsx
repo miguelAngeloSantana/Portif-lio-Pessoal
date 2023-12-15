@@ -28,7 +28,7 @@ export default function Sobre() {
                     <img 
                         className="object-cover object-center rounded"
                         alt="hero"
-                        src="./src/coding.svg"
+                        src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-atividade-de-desenvolvedor_114360-2801.jpg"
                     />
                 </div>
             </div>
