@@ -4,7 +4,7 @@ export const Projects = [
         tec: "React",
         desc: "Este projeto é uma Single Page Application de um rede Fast Food ficticia, sendo feita com react, além da incorporaçao de algumas ilustrações em algumas sessões para deiar o visual mais informativo",
         link: "https://spadoorhub.netlify.app/",
-        image: "./src/Imagens/project-1.png"
+        image: "../Imagens/project-1.png"
     },
 
     {
