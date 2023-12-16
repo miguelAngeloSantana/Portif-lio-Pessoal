@@ -1,3 +1,5 @@
+import {imgCoding} from "../coding.svg";
+
 export default function Sobre() {
     return (
         <section id="sobre">
@@ -28,7 +30,7 @@ export default function Sobre() {
                     <img 
                         className="object-cover object-center rounded"
                         alt="hero"
-                        src="https://img.freepik.com/vetores-gratis/ilustracao-de-conceito-de-atividade-de-desenvolvedor_114360-2801.jpg"
+                        src={imgCoding}
                     />
                 </div>
             </div>
